@@ -1,0 +1,1 @@
+export {historyPush} from './history'
